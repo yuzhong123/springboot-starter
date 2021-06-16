@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "mystarter.pro1",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "defaultValue": "默认值1"
+    },
+    {
+      "name": "mystarter.pro2",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "defaultValue": "默认值2"
+    },
+    {
+      "name": "mystarter.pro3",
+      "type": "java.lang.String",
+      "description": "自定义properties参数描述",
+      "defaultValue": "默认值3"
+    },
+    {
+      "name": "mystarter.pro4",
+      "type": "java.lang.Integer",
+      "description": "自定义properties参数描述",
+      "defaultValue": 3000
+    }
+  ]
+}
